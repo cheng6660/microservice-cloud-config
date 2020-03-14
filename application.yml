@@ -9,6 +9,6 @@ spring:
     name: microservice-cloud-config-bdqn-dev
 ---
 spring: 
-  profiles: test    #测试环境	
+  profiles: test    #测试-环境	
   application: 
     name: microservice-cloud-config-bdqn-test
